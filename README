@@ -1,0 +1,3 @@
+# Pesquisa teste
+
+O tempo é contado apenas ao pesquisar, mas ao clicar em Benchmargkin antes da pesquisa é populado a lista com dados fakes de 100.000 registros e desconsidero esse tempo pois a proposta é fazer a pesquisa nos 100.000 registros. 
